@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body style="font-family: monospace; background-color: #333;">
+    <div id="app"></div>
+    <div>
+      <textarea
+        id="outputBox"
+        cols="54"
+        rows="5"
+        style="background: transparent; color: #ffffff;"
+        disabled="1"
+      >
+Loading...</textarea
+      >
+    </div>
+    <canvas
+      id="canvas1"
+      width="400"
+      height="400"
+      style="border-style: solid; border-width: 1px;"
+    ></canvas>
+    <canvas
+      id="mapCanvas"
+      width="400"
+      height="400"
+      style="border-style: solid; border-width: 1px;"
+    ></canvas>
+    <div>
+      <textarea
+        id="textbox"
+        cols="54"
+        rows="4"
+        placeholder="Input map data"
+        style="background: transparent;"
+      ></textarea>
+    </div>
+    <div style="color: #ffffff;">
+      <p>«««««« Controls »»»»»»</p>
+      <p>WASD -- Movement</p>
+      <p>Left & Right Arrows -- Look left and right</p>
+      <p>O -- Open custom map data from the textbox</p>
+      <p>P -- Print the map data to the textbox</p>
+      <p>Escape -- Stop/start the main program loop (saves processing power)</p>
+      <p>&nbsp</p>
+      <p>«««««« Other Notes »»»»»»</p>
+      <a href="https://0rrmn.csb.app/" style="color: #039be5;">Map Editor</a>
+      <p>
+        There is not yet any gameplay elements, just the rendering engine and
+        component framework. (This means no collisions with walls)
+      </p>
+      <p>
+        There is support for portals but they are not yet supported by the map
+        editor. This might change in the future.
+      </p>
+      <p>
+        In the top down map, cells with multiple textures are shown with the NS
+        texture on the left and the EW texture on the right.
+      </p>
+      <p>
+        The current version will be left as is for future reference, but a link
+        to future versions will be added here should a future version be
+        created.
+      </p>
+    </div>
+    <img
+      src="./textures.png"
+      alt="textures"
+      id="textures"
+      style="width: 0px;"
+    />
+    <object
+      data="textureData.json"
+      id="textureData"
+      style="display: none;"
+    ></object>
+    <script src="src/index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,572 @@
+{
+  "textures/large/stone": {
+    "x": 1,
+    "y": 1,
+    "w": 128,
+    "h": 128
+  },
+  "textures/large/stone2": {
+    "x": 131,
+    "y": 1,
+    "w": 128,
+    "h": 128
+  },
+  "textures/large/stonePlain": {
+    "x": 1,
+    "y": 131,
+    "w": 128,
+    "h": 128
+  },
+  "textures/large/wall": {
+    "x": 131,
+    "y": 131,
+    "w": 128,
+    "h": 128
+  },
+  "textures/large/wall2": {
+    "x": 261,
+    "y": 1,
+    "w": 128,
+    "h": 128
+  },
+  "textures/large/wallPlain": {
+    "x": 261,
+    "y": 131,
+    "w": 128,
+    "h": 128
+  },
+  "textures/ent/tree": {
+    "x": 1,
+    "y": 261,
+    "w": 92,
+    "h": 123
+  },
+  "textures/large/stoneHalf": {
+    "x": 1,
+    "y": 386,
+    "w": 64,
+    "h": 128
+  },
+  "textures/large/wallHalf": {
+    "x": 67,
+    "y": 386,
+    "w": 64,
+    "h": 128
+  },
+  "textures/brick/castle/dark": {
+    "x": 95,
+    "y": 261,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/dark2": {
+    "x": 133,
+    "y": 327,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/door": {
+    "x": 161,
+    "y": 261,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/layered": {
+    "x": 133,
+    "y": 393,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/stripe/center": {
+    "x": 199,
+    "y": 327,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/stripe/horizontal": {
+    "x": 227,
+    "y": 261,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/stripe/horizontalEnd": {
+    "x": 199,
+    "y": 393,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/stripe/vertical": {
+    "x": 265,
+    "y": 327,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/wall": {
+    "x": 293,
+    "y": 261,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/castle/wall2": {
+    "x": 265,
+    "y": 393,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/rough": {
+    "x": 331,
+    "y": 327,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/roughBrace": {
+    "x": 359,
+    "y": 261,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/roughRing": {
+    "x": 331,
+    "y": 393,
+    "w": 64,
+    "h": 64
+  },
+  "textures/brick/roughlight": {
+    "x": 391,
+    "y": 1,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/Left": {
+    "x": 391,
+    "y": 67,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/bottom": {
+    "x": 391,
+    "y": 133,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/bottomLeft": {
+    "x": 397,
+    "y": 327,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/bottomRight": {
+    "x": 425,
+    "y": 199,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/center": {
+    "x": 457,
+    "y": 1,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/right": {
+    "x": 457,
+    "y": 67,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/top": {
+    "x": 457,
+    "y": 133,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/topLeft": {
+    "x": 397,
+    "y": 393,
+    "w": 64,
+    "h": 64
+  },
+  "textures/carpet/topRight": {
+    "x": 1,
+    "y": 516,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/banner": {
+    "x": 67,
+    "y": 516,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/crystal": {
+    "x": 133,
+    "y": 459,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/bottom0": {
+    "x": 199,
+    "y": 459,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/bottom1": {
+    "x": 265,
+    "y": 459,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/bottom2": {
+    "x": 331,
+    "y": 459,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/bottom3": {
+    "x": 397,
+    "y": 459,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/bottom4": {
+    "x": 491,
+    "y": 199,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/growingPlant/top": {
+    "x": 523,
+    "y": 1,
+    "w": 64,
+    "h": 64
+  },
+  "textures/ent/marker": {
+    "x": 523,
+    "y": 67,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/edgeClean": {
+    "x": 523,
+    "y": 133,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/edgeRusted": {
+    "x": 463,
+    "y": 265,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/edgeWorn": {
+    "x": 463,
+    "y": 331,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/frameMetalClean": {
+    "x": 463,
+    "y": 397,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/frameMetalRusted": {
+    "x": 463,
+    "y": 463,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/stripedDark": {
+    "x": 1,
+    "y": 582,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/stripedOrange": {
+    "x": 67,
+    "y": 582,
+    "w": 64,
+    "h": 64
+  },
+  "textures/metal/stripedYellow": {
+    "x": 133,
+    "y": 525,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/blueMachine": {
+    "x": 199,
+    "y": 525,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/crystal": {
+    "x": 265,
+    "y": 525,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/red": {
+    "x": 331,
+    "y": 525,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/redMachine": {
+    "x": 397,
+    "y": 525,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/window": {
+    "x": 463,
+    "y": 529,
+    "w": 64,
+    "h": 64
+  },
+  "textures/misc/yellowMachine": {
+    "x": 589,
+    "y": 1,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/corner": {
+    "x": 589,
+    "y": 67,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/darkwood_leaves": {
+    "x": 589,
+    "y": 133,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/full": {
+    "x": 557,
+    "y": 199,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/half": {
+    "x": 529,
+    "y": 265,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/half2": {
+    "x": 529,
+    "y": 331,
+    "w": 64,
+    "h": 64
+  },
+  "textures/plant/top": {
+    "x": 529,
+    "y": 397,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/dark": {
+    "x": 529,
+    "y": 463,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/dark2": {
+    "x": 529,
+    "y": 529,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/greyBrick": {
+    "x": 133,
+    "y": 591,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/greyBrick2": {
+    "x": 1,
+    "y": 648,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/tanFlat": {
+    "x": 67,
+    "y": 648,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/tanRough": {
+    "x": 199,
+    "y": 591,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/woodFrame": {
+    "x": 265,
+    "y": 591,
+    "w": 64,
+    "h": 64
+  },
+  "textures/transparent/braceWood": {
+    "x": 331,
+    "y": 591,
+    "w": 64,
+    "h": 64
+  },
+  "textures/transparent/frameMetal": {
+    "x": 397,
+    "y": 591,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/bandedMetal": {
+    "x": 463,
+    "y": 595,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/bandedWood": {
+    "x": 529,
+    "y": 595,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/braceMetal": {
+    "x": 655,
+    "y": 1,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/braceWood": {
+    "x": 655,
+    "y": 67,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/frameMetal": {
+    "x": 655,
+    "y": 133,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/horizontal": {
+    "x": 623,
+    "y": 199,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/log/dark": {
+    "x": 595,
+    "y": 265,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/log/dark2": {
+    "x": 595,
+    "y": 331,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/log/light": {
+    "x": 595,
+    "y": 397,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/darkHorizontal": {
+    "x": 595,
+    "y": 463,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/darkVertical": {
+    "x": 595,
+    "y": 529,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/flat": {
+    "x": 595,
+    "y": 595,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/lightHorizontal": {
+    "x": 133,
+    "y": 657,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/small": {
+    "x": 1,
+    "y": 714,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/planks/vertical": {
+    "x": 67,
+    "y": 714,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/roughFlat": {
+    "x": 199,
+    "y": 657,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/studded": {
+    "x": 265,
+    "y": 657,
+    "w": 64,
+    "h": 64
+  },
+  "textures/wood/trim": {
+    "x": 331,
+    "y": 657,
+    "w": 64,
+    "h": 64
+  },
+  "textures/stone/layered": {
+    "x": 397,
+    "y": 657,
+    "w": 64,
+    "h": 61
+  },
+  "textures/stone/leyered2": {
+    "x": 463,
+    "y": 661,
+    "w": 64,
+    "h": 61
+  },
+  "textures/ent/shadow": {
+    "x": 397,
+    "y": 720,
+    "w": 59,
+    "h": 43
+  },
+  "textures/ent/bush": {
+    "x": 458,
+    "y": 724,
+    "w": 42,
+    "h": 39
+  },
+  "textures/ent/candle": {
+    "x": 391,
+    "y": 199,
+    "w": 10,
+    "h": 29
+  },
+  "textures/error": {
+    "x": 391,
+    "y": 230,
+    "w": 16,
+    "h": 16
+  },
+  "textures/void": {
+    "x": 403,
+    "y": 199,
+    "w": 16,
+    "h": 16
+  }
+}

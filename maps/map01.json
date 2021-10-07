@@ -1,0 +1,140 @@
+[
+  [
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/wood/horizontal" },
+    { "texture": "textures/wood/bandedWood" },
+    { "texture": "textures/wood/horizontal" },
+    { "texture": "textures/wood/bandedWood" },
+    { "texture": "textures/wood/horizontal" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/wood/bandedWood" },
+    {},
+    {},
+    {},
+    { "texture": "textures/wood/bandedWood" }
+  ],
+  [
+    { "texture": "textures/brick/castle/door" },
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/wood/horizontal" },
+    {},
+    {},
+    {},
+    { "texture": "textures/wood/horizontal" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/wood/bandedWood" },
+    {},
+    {},
+    {},
+    { "texture": "textures/wood/bandedWood" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    {
+      "textureNS": "textures/brick/castle/wall2",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    {},
+    {
+      "textureNS": "textures/brick/castle/wall2",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/wood/horizontal" },
+    {
+      "textureNS": "textures/wood/bandedWood",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    {},
+    {
+      "textureNS": "textures/wood/bandedWood",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    { "texture": "textures/wood/horizontal" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    {
+      "textureNS": "textures/brick/castle/wall",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    {},
+    {
+      "textureNS": "textures/brick/castle/wall",
+      "textureEW": "textures/brick/castle/dark"
+    },
+    { "texture": "textures/brick/castle/wall" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" }
+  ],
+  [
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    {},
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" }
+  ],
+  [
+    {},
+    {},
+    {},
+    {},
+    { "texture": "textures/misc/yellowMachine" },
+    {},
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" }
+  ],
+  [
+    {},
+    {},
+    {},
+    {},
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/misc/window" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" },
+    { "texture": "textures/brick/castle/wall" }
+  ]
+]
